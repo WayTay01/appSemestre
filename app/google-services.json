@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102673221075",
+    "project_id": "appsemestre-d51f1",
+    "storage_bucket": "appsemestre-d51f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102673221075:android:fe128f9dcba07de0639b26",
+        "android_client_info": {
+          "package_name": "com.example.appsemestre"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2a2Tg2Mw_H0UNVjP2frfXKT4OPLf07VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
